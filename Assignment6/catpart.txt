@@ -1,0 +1,74 @@
+# File
+  Check if file is empty or not:
+      Empty.                  [single][property emptyFile]
+      Not Empty.
+
+  Number Of the occurencences of the string in the file:
+      None.                   [single][if !emptyFile][property noOccurences]
+      One.                    [if !emptyFile]
+      Many.                   [if !emptyFile]
+
+  Number of occurences in one line:
+      One.                    [if !emptyFile && !noOccurences]
+      Many.                   [if !emptyFile && !noOccurences]
+
+  Position of the string in the file:
+      First line.             [single][if !emptyFile]
+      Last line.              [single][if !emptyFile]
+      Any line.               [if !emptyFile]
+
+# Options
+  number of command line arguments and options:
+      No arguments.           [single][property noOpt]
+      More than one argument.
+  
+  for command-line argument -b:
+      if specified            [if !noOpt]
+      if not specified        [if !noOpt]
+
+  for command line argument -f:
+      if specified            [if !noOpt && !lastOccurence][property firstOccurence] 
+      if not specified        [if !noOpt]
+        
+  for command line argument -l:
+      if specified            [if !noOpt && !firstOccurence][property lastOccurence]
+      if not specified        [if !noOpt]
+        
+  forcommand line argument -i:
+      if specified            [if !noOpt]
+      if not specified        [if !noOpt]
+
+# Total number of files
+  Number of files:
+      0.                      [error][property noFiles]
+      1.                      [single] 
+      More than 1.
+
+# File Existence
+  Check if the files exist:
+      File founded.           [if !noFiles][property fileExists]
+      File does not exists.   [error][if !noFiles]
+
+# FromString
+  check the length of from string:
+      Empty.                  [single][if !noFiles && fileExists][property emptyFS]
+      Any length.             [if !noFiles && fileExists][property anyLengthFS]
+      Out of range            [error]
+
+  Content of string:
+      Letters.                [!emptyFS]
+      Numbers.                [!emptyFS]
+      Spaces.                 [!emptyFS]
+      Special chars.          [!emptyFS]
+
+# ToString
+  check the length of to string:
+      Empty.                  [single][if !noFiles && fileExists][property emptyTS]
+      Any length.             [if !noFiles && fileExists][property anyLengthTS]
+      Out of range            [error]
+
+  Content of string:
+      Alphanumeric chars.     [!emptyTS]
+      Numbers.                [!emptyTS]
+      Spaces.                 [!emptyTS]
+      Special chars.          [!emptyTS]

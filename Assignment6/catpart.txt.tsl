@@ -1,0 +1,936 @@
+
+Test Case 1  		<single>
+   Check if file is empty or not :  Empty
+
+
+Test Case 2  		<single>
+   Number Of the occurencences of the string in the file :  None
+
+
+Test Case 3  		<single>
+   Position of the string in the file :  First line
+
+
+Test Case 4  		<single>
+   Position of the string in the file :  Last line
+
+
+Test Case 5  		<single>
+   number of command line arguments and options :  No arguments
+
+
+Test Case 6  		<error>
+   Number of files :  0
+
+
+Test Case 7  		<single>
+   Number of files :  1
+
+
+Test Case 8  		<error>
+   Check if the files exist :  File does not exists
+
+
+Test Case 9  		<single>
+   check the length of from string :  Empty
+
+
+Test Case 10 		<single>
+   check the length of to string :  Empty
+
+
+Test Case 11 		(Key = 2.2.1.3.2.3.1.2.1.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 12 		(Key = 2.2.1.3.2.3.1.2.1.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 13 		(Key = 2.2.1.3.2.3.1.2.1.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 14 		(Key = 2.2.1.3.2.3.1.2.1.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 15 		(Key = 2.2.1.3.2.3.1.2.2.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 16 		(Key = 2.2.1.3.2.3.1.2.2.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 17 		(Key = 2.2.1.3.2.3.1.2.2.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 18 		(Key = 2.2.1.3.2.3.1.2.2.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 19 		(Key = 2.2.1.3.2.3.1.2.3.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 20 		(Key = 2.2.1.3.2.3.1.2.3.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 21 		(Key = 2.2.1.3.2.3.1.2.3.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 22 		(Key = 2.2.1.3.2.3.1.2.3.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 23 		(Key = 2.2.1.3.2.3.1.2.4.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 24 		(Key = 2.2.1.3.2.3.1.2.4.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 25 		(Key = 2.2.1.3.2.3.1.2.4.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 26 		(Key = 2.2.1.3.2.3.1.2.4.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 27 		(Key = 2.2.2.3.2.3.1.2.1.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 28 		(Key = 2.2.2.3.2.3.1.2.1.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 29 		(Key = 2.2.2.3.2.3.1.2.1.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 30 		(Key = 2.2.2.3.2.3.1.2.1.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 31 		(Key = 2.2.2.3.2.3.1.2.2.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 32 		(Key = 2.2.2.3.2.3.1.2.2.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 33 		(Key = 2.2.2.3.2.3.1.2.2.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 34 		(Key = 2.2.2.3.2.3.1.2.2.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 35 		(Key = 2.2.2.3.2.3.1.2.3.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 36 		(Key = 2.2.2.3.2.3.1.2.3.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 37 		(Key = 2.2.2.3.2.3.1.2.3.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 38 		(Key = 2.2.2.3.2.3.1.2.3.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 39 		(Key = 2.2.2.3.2.3.1.2.4.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 40 		(Key = 2.2.2.3.2.3.1.2.4.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 41 		(Key = 2.2.2.3.2.3.1.2.4.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 42 		(Key = 2.2.2.3.2.3.1.2.4.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  One
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 43 		(Key = 2.3.1.3.2.3.1.2.1.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 44 		(Key = 2.3.1.3.2.3.1.2.1.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 45 		(Key = 2.3.1.3.2.3.1.2.1.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 46 		(Key = 2.3.1.3.2.3.1.2.1.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 47 		(Key = 2.3.1.3.2.3.1.2.2.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 48 		(Key = 2.3.1.3.2.3.1.2.2.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 49 		(Key = 2.3.1.3.2.3.1.2.2.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 50 		(Key = 2.3.1.3.2.3.1.2.2.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 51 		(Key = 2.3.1.3.2.3.1.2.3.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 52 		(Key = 2.3.1.3.2.3.1.2.3.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 53 		(Key = 2.3.1.3.2.3.1.2.3.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 54 		(Key = 2.3.1.3.2.3.1.2.3.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 55 		(Key = 2.3.1.3.2.3.1.2.4.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 56 		(Key = 2.3.1.3.2.3.1.2.4.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 57 		(Key = 2.3.1.3.2.3.1.2.4.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 58 		(Key = 2.3.1.3.2.3.1.2.4.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 59 		(Key = 2.3.2.3.2.3.1.2.1.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 60 		(Key = 2.3.2.3.2.3.1.2.1.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 61 		(Key = 2.3.2.3.2.3.1.2.1.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 62 		(Key = 2.3.2.3.2.3.1.2.1.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Letters
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 63 		(Key = 2.3.2.3.2.3.1.2.2.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 64 		(Key = 2.3.2.3.2.3.1.2.2.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 65 		(Key = 2.3.2.3.2.3.1.2.2.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 66 		(Key = 2.3.2.3.2.3.1.2.2.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Numbers
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 67 		(Key = 2.3.2.3.2.3.1.2.3.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 68 		(Key = 2.3.2.3.2.3.1.2.3.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 69 		(Key = 2.3.2.3.2.3.1.2.3.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 70 		(Key = 2.3.2.3.2.3.1.2.3.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Spaces
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
+
+Test Case 71 		(Key = 2.3.2.3.2.3.1.2.4.2.1.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 72 		(Key = 2.3.2.3.2.3.1.2.4.2.2.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Numbers
+
+
+Test Case 73 		(Key = 2.3.2.3.2.3.1.2.4.2.3.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Spaces
+
+
+Test Case 74 		(Key = 2.3.2.3.2.3.1.2.4.2.4.)
+   Check if file is empty or not                         :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one argument
+   Number of files                                       :  More than 1
+   Check if the files exist                              :  File founded
+   check the length of from string                       :  Any length
+   Content of string                                     :  Special chars
+   check the length of to string                         :  Any length
+   Content of string                                     :  Special chars
+
